@@ -510,7 +510,7 @@
       "plot": "Fab/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../Mechanical/DynamicBrakeGrid/DynamicBrakeGridBoard.step",
+      "step": "Step/ChargercontrolBoard.step",
       "svg": "",
       "vrml": ""
     },
